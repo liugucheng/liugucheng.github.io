@@ -1,1 +1,0 @@
-import"./index.9874402d.js";import{I as t}from"./vendor.f24ab909.js";function e(e){return t.post("/accesstoken",{accesstoken:e})}function n(e){return t.get(`/user/${e}`)}function o(e){return t.get(`/topic_collect/${e}`)}export{e as a,o as b,n as c};
