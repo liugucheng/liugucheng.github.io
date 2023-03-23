@@ -1,5 +1,4 @@
 # liugucheng.github.io
 
-啊萨达萨达
-read.me!!!
-ask拉萨的
+
+###  一将功成万骨枯
